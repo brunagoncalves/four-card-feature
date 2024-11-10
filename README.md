@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [FourCardFeature](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/brunagoncalves/four-card-feature)
+- Live Site URL: [FourCardFeature](https://brunagoncalves.github.io/four-card-feature/)
 
 ## My process
 
